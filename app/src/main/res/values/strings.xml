@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Manara_App</string>
+    <string-array name="التأمينات" >
+        <item> سيارات   29</item>
+        <item> حريق   34</item>
+        <item> تأمينات هندسية   36</item>
+        <item> تأمينات عامه   35</item>
+        <item> بحري   30</item>
+        <item> الطبي   1</item>
+        <item> اجسام طائرات   32</item>
+        <item>  اجسام سفن   31</item>
+
+    </string-array>
+</resources>

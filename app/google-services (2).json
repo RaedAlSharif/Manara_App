@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087912413889",
+    "project_id": "manara-app-4037d",
+    "storage_bucket": "manara-app-4037d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087912413889:android:fba988faaa7199a79a6240",
+        "android_client_info": {
+          "package_name": "com.example.manara_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087912413889-bso18ji5gb7b9qsf5fdubnb9ipgtg1rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manara_app",
+            "certificate_hash": "840838fd51749914f657f1523a8ddac18076504b"
+          }
+        },
+        {
+          "client_id": "1087912413889-bpjikk66g347n76ttuo6k91kg5edmqc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-v5VeVS7j12X0r16uvtQ1IAVycaQUsV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087912413889-bpjikk66g347n76ttuo6k91kg5edmqc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
